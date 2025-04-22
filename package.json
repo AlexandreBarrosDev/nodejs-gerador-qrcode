@@ -1,0 +1,18 @@
+{
+  "name": "gerador-qrcode",
+  "version": "1.0.0",
+  "description": "Gerrador de QR code feito em Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexandre Barros",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "prompt": "^1.3.0"
+  }
+}
